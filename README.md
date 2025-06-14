@@ -57,8 +57,6 @@ _More coming soon... I'm learning every day!_
 
 ## `🌍 Contribution Heatmap`
 
-> 🟩 Real-time contribution graph powered by `github-readme-activity-graph`
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devxsameer&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true)
 
 ---
