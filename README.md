@@ -1,8 +1,8 @@
-Hi, I'm Sameer 👋
+Hi, I’m Sameer 👋  
+Backend-focused full-stack developer building real-world web applications.
 
-Backend-focused full-stack developer.
-I build real-world applications with proper authentication, authorization, and clean architecture.
+• Strong focus on authentication, authorization, and clean architecture  
+• Tech: TypeScript, Node.js, Express, PostgreSQL, React  
+• Currently building a production-style blog platform with admin dashboard  
 
-🔹 Tech: TypeScript, Node.js, Express, PostgreSQL, React  
-🔹 Currently building: Blog platform with admin dashboard  
-🔹 Portfolio: https://devxsameer.me
+🌐 Portfolio: https://devxsameer.me
