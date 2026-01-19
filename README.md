@@ -47,16 +47,6 @@ viewer-aware queries, and strict authorization rules.
 🔗 Live: https://innercircles.devxsameer.me  
 💻 Code: https://github.com/devxsameer/inner-circles
 
----
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devxsameer&label=Visitors&color=181717&style=flat" /> </p>
-
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
-</picture>
-<br>
 
 ---
 
