@@ -1,6 +1,6 @@
 # Hi, I’m Sameer 👋
 
-**Backend Engineer (Early Career)** focused on building production-grade
+**Backend Engineer** focused on building production-grade
 authentication systems, authorization models, and scalable REST APIs.
 
 I build real-world applications with strong backend fundamentals —
